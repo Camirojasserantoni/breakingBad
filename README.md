@@ -13,7 +13,6 @@ https://breakingfrase.netlify.app/
 
 - HTML5
 - CSS3 
-- MATERIALIZE CSS
 - JAVASCRIPT
 - REACT JS (React Hooks)
 
