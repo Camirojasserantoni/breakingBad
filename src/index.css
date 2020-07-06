@@ -38,11 +38,12 @@ body {
 }
 
 .frase {
-  padding: 3rem;
+  padding: 2rem;
   border-radius: .5rem;
   background-color: rgba(255,255,255,1);
-  max-width:800px;
+  max-width: 800px;
   margin: 4%;
+  margin-right: 4%;
 }
 .frase h1::before {
   content: open-quote;
@@ -54,9 +55,9 @@ body {
 }
 .frase h1 {
   font-family: 'Staatliches', cursive;
-  text-align:center;
+  text-align: center;
   position: relative;
-  padding-left: 4rem;
+  padding-left: 3rem;
 }
 .frase p {
   font-family: 'Handlee', cursive;
